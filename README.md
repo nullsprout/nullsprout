@@ -36,25 +36,21 @@ I mostly work with TypeScript, React, Next.js, NestJS, and PostgreSQL, and I enj
 
 <div align="center">
 
-```typescript
-const developer = {
-  name: 'Samin Yasar',
-  role: 'Full Stack Engineer',
-  stack: ['React', 'Next', 'Nest', 'Postgres'],
-  passion: 'Building scalable apps',
-};
-
-while (true) {
-  learn();
-  build();
-  ship();
-  repeat();
-}
-```
+<img src="./assets/developer.svg" width="100%" alt="developer.ts: Samin Yasar, Full Stack Engineer at Nexaus Cloud, with the languages, frameworks, databases and DevOps tools he works with"/>
 
 *Learn. Build. Ship. Repeat.*
 
 </div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,nestjs,express,prisma,postgres,mysql,mongodb,redis,rabbitmq,kafka,aws,docker,githubactions,linux&perline=10" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Redux, Node.js, NestJS, Express, Prisma, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Kafka, AWS, Docker, GitHub Actions, Linux"/>
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
